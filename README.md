@@ -32,7 +32,7 @@ Postman (for API testing)
 ##  Setup Instructions
 1. Clone the Repository
 
-git clone https://github.com/<your-username>/lateshow-firstname-lastname.git
+git clone https://github.com/Shalpha2/lateshow-shadrack-kiprono
 cd lateshow-firstname-lastname/server
 2. Create and Activate Virtual Environment
 
